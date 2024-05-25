@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?totaltestVersion 23.3.1.v20240319-1639_113?>
+<!--BMC AMI DevX Total Test 23.3.1.v20240319-1639_113 May 25, 2024, 7:56:03 PM-->
+<testsuites>
+  <testsuite name="ALJOCOB_Scenario" errors="0" tests="1" failures="0">
+    <testcase classname="ALJOCOB_Scenario" name="Unit Test: Test Case: ALJOCOBCase1 for program: ALJOCOB" />
+  </testsuite>
+</testsuites>

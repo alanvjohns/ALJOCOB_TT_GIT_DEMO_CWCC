@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?totaltestVersion 23.3.1.v20240319-1639_113?>
+<!--BMC AMI DevX Total Test 23.3.1.v20240319-1639_113 May 25, 2024, 7:56:03 PM-->
+<testExecutions version="1">
+  <file path="D:\PhotonUser\TWB230301\ALJOCOB_TT_GIT_DEMO_CWCC\Tests\Scenarios\ALJOCOB_Scenario.testscenario">
+    <testCase name="Unit Test: Test Case: ALJOCOBCase1 for program: ALJOCOB" duration="0" />
+  </file>
+</testExecutions>
