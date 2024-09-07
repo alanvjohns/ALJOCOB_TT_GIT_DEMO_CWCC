@@ -1,11 +1,11 @@
-13:42:25.257 INFO      Total Test       ***************************************
-13:42:25.258 INFO      Total Test       ** Execution from Topaz with options **
-13:42:25.261 INFO      Total Test       ***************************************
-13:42:25.262 INFO      Total Test       Using repository: true
-13:42:25.262 INFO      Total Test       Repository URL: http://cwcc.bmc.com:2020/totaltestapi/
-13:42:25.263 INFO      Total Test       ***************************************
-13:42:25.270 INFO      Engine           Test Scenario execution started
-13:42:25.273 INFO      Engine           Using context settings:
+16:01:01.196 INFO      Total Test       ***************************************
+16:01:01.197 INFO      Total Test       ** Execution from Topaz with options **
+16:01:01.197 INFO      Total Test       ***************************************
+16:01:01.197 INFO      Total Test       Using repository: true
+16:01:01.197 INFO      Total Test       Repository URL: http://cwcc.bmc.com:2020/totaltestapi/
+16:01:01.197 INFO      Total Test       ***************************************
+16:01:01.198 INFO      Engine           Test Scenario execution started
+16:01:01.198 INFO      Engine           Using context settings:
   Engine Version                : 23.4.1.v20240621-1457_111
   Environment id                : 5b508b8a787be73b59238d38
   Environment type              : Batch
@@ -22,22 +22,22 @@
   Use Repository Server         : true
   Account Information           : 
   Dataset High Level Qualifier  : 
-13:42:25.274 INFO      Engine           Setting variables from context and context data extensions
-13:42:25.274 INFO      Engine             id: environmentId      value: 5b508b8a787be73b59238d38
-13:42:25.274 INFO      Engine             id: environmentType    value: BATCH
-13:42:25.274 INFO      Engine             id: userId             value: HUK0320
-13:42:25.274 INFO      Engine             id: accountingInfo     value: 
-13:42:25.274 INFO      Engine             id: datasetHQL         value: 
-13:42:25.278 INFO      Unittest         Interpreting Unittest of module: ALJOCOB testscenario path: ALJOCOB_Scenario.testscenario
-13:42:26.682 INFO      Unittest         Using JCL skeleton to submit JCL
-13:42:36.376 INFO      CWCC Batch       Sending Job execution request to Host 
-13:42:41.561 INFO      CWCC Batch       Job execution completed with status:
+16:01:01.199 INFO      Engine           Setting variables from context and context data extensions
+16:01:01.199 INFO      Engine             id: environmentId      value: 5b508b8a787be73b59238d38
+16:01:01.200 INFO      Engine             id: environmentType    value: BATCH
+16:01:01.200 INFO      Engine             id: userId             value: HUK0320
+16:01:01.200 INFO      Engine             id: accountingInfo     value: 
+16:01:01.200 INFO      Engine             id: datasetHQL         value: 
+16:01:01.200 INFO      Unittest         Interpreting Unittest of module: ALJOCOB testscenario path: ALJOCOB_Scenario.testscenario
+16:01:01.985 INFO      Unittest         Using JCL skeleton to submit JCL
+16:01:17.302 INFO      CWCC Batch       Sending Job execution request to Host 
+16:01:22.410 INFO      CWCC Batch       Job execution completed with status:
   Job status     : COMPLETED
-  Job status msg : Job HUK0320A(J0495344) ended with return code: 0000
+  Job status msg : Job HUK0320A(J0498073) ended with return code: 0000
   Job name       : HUK0320A
-  Job id         : J0495344
+  Job id         : J0498073
   Return code    : 0000
   Abend code     : 
   Abend reason   : 
-13:42:46.760 INFO      Unittest         Execution completed
-13:42:46.764 INFO      Engine           Test Scenario execution ended
+16:01:25.905 INFO      Unittest         Execution completed
+16:01:25.907 INFO      Engine           Test Scenario execution ended
